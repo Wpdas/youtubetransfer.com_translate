@@ -26,17 +26,13 @@
   "FOOTER_TITLE": "About YouTube Transfer",
   "FOOTER_TEXT_1": "Through the YouTube Transfer you can convert and download mp3 (or Videos) songs extracted from YouTube and cut it if you want. This is an online service. We always try to deliver 128 kBit/s audio quality.",
   "FOOTER_TEXT_2": " Some videos are blocked and can not be downloaded. The video must have a maximum of 20 minutes.",
-  "FOOTER_TEXT_3": "",
-  "FOOTER_TEXT_4": "",
+  "FOOTER_TEXT_3": "https://git.io/vdYwg",
+  "FOOTER_TEXT_4": "Help translate the site to other languages. Repository: ",
   "FOOTER_TEXT_5": "Click on the button",
   "FOOTER_TEXT_6": "to generate and copy a shareable link. With this link you can download the desired file (mp3 or video).",
   "FOOTER_TEXT_7": "to download the desired file (mp3 or video).",
   "CLOSE_BUTTON": "Copy",
   "DIALOG_SUCCESS_1_1": "The link",
   "DIALOG_SUCCESS_1_2": " is already.",
-  "DIALOG_ERROR_1_1": "There was an error processing the request.",
-  "SESSION_EXPIRED": "The previous video session has expired. Do not worry! Let's update the session for you :D",
-  "URL_UNDEFINED": "Video URL is not defined.",
-  "ALERT_LIMITED_MINUTES:": "Video should be 20 minutes or less.",
-  "VIDEO_DOES_NOT_EXIST": "The video does not exist or is locked to the server region."
+  "DIALOG_ERROR_1_1": "There was an error processing the request."
 }
